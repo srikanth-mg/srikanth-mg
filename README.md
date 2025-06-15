@@ -18,14 +18,14 @@ I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (V
 ## Projects
 | Project | Description |
 |--------|-------------|
-| [riscv-processor] | A 32-bit 5-stage pipelined RISC-V CPU in Verilog |
-| [cache-memory-design]) | Direct-mapped cache optimized with AI-assisted tag-matching |
-| [accumulator-cadence] | 16-bit high-speed accumulator layout + DRC/LVS pass in Virtuoso |
-| [biosensor-tfet] | TCAD-modeled TFET biosensor for high-sensitivity detection |
+| riscv-processor | A 32-bit 5-stage pipelined RISC-V CPU in Verilog |
+| cache-memory-design | Direct-mapped cache optimized with AI-assisted tag-matching |
+| accumulator-cadence | 16-bit high-speed accumulator layout + DRC/LVS pass in Virtuoso |
+| biosensor-tfet | TCAD-modeled TFET biosensor for high-sensitivity detection |
 
 ---
 
 ## Contact
-- 📍 Binghamton, NY
+- Binghamton, NY
 - smuthuvelgan@binghamton.edu
 - [LinkedIn](https://www.linkedin.com/in/srikanth9503)
