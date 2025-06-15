@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Srikanth Muthuvel Ganthimathi
 
-<!--
-**srikanth-mg/srikanth-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Chip Design Engineer** | RTL | ASIC | FPGA | Schematic/Layout | Cadence | TCAD
 
-Here are some ideas to get you started:
+I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (VLSI specialization) at SUNY, Binghamton University. My work focuses on full-stack chip design—from RTL to tapeout—including schematic design, layout, and PDK-based simulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Core Skills
+- **RTL Design**: Verilog HDL, SystemVerilog
+- **FPGA/ASIC Flow**: Xilinx Vivado, Questa, ModelSim
+- **Backend**: Cadence Virtuoso – schematic/layout, DRC/LVS/ERC, PDK integration
+- **Device Modeling**: Synopsys Sentaurus TCAD
+- **Scripting & Tools**: Python, MATLAB, Unix/Linux
+
+---
+
+## Projects
+| Project | Description |
+|--------|-------------|
+| [riscv-processor] | A 32-bit 5-stage pipelined RISC-V CPU in Verilog |
+| [cache-memory-design]) | Direct-mapped cache optimized with AI-assisted tag-matching |
+| [accumulator-cadence] | 16-bit high-speed accumulator layout + DRC/LVS pass in Virtuoso |
+| [biosensor-tfet] | TCAD-modeled TFET biosensor for high-sensitivity detection |
+
+---
+
+## Contact
+- 📍 Binghamton, NY
+- smuthuvelgan@binghamton.edu
+- [LinkedIn](https://www.linkedin.com/in/srikanth9503)
