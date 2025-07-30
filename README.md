@@ -19,6 +19,7 @@ I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (V
 | Project | Description |
 |--------|-------------|
 | riscv-processor | A 32-bit 5-stage pipelined RISC-V CPU in Verilog |
+| UART_Verilog | A Serial Communication portocol in Verilog with transmitter & receiver module |
 | cache-memory-design | Direct-mapped cache optimized with AI-assisted tag-matching |
 | accumulator-cadence | 16-bit high-speed accumulator layout + DRC/LVS pass in Virtuoso |
 | biosensor-tfet | TCAD-modeled TFET biosensor for high-sensitivity detection |
