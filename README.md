@@ -1,6 +1,6 @@
 # Hi, I'm Srikanth Muthuvel Ganthimathi
 
-**Aspiring Chip Design Engineer** | RTL | ASIC | FPGA | Schematic/Layout | Cadence | TCAD
+**Aspiring Chip Design Engineer** | RTL | ASIC | FPGA | Schematic/Layout | Virtuoso | TCAD
 
 I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (VLSI specialization) at SUNY, Binghamton University. My work focuses on full-stack chip design—from RTL to tapeout—including schematic design, layout, and PDK-based simulation.
 
