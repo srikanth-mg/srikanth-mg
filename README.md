@@ -11,6 +11,7 @@ I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (V
 - **FPGA/ASIC Flow**: Xilinx Vivado, Questa, ModelSim
 - **Backend**: Cadence Virtuoso – schematic/layout, DRC/LVS/ERC, PDK integration
 - **Device Modeling**: Synopsys Sentaurus TCAD
+- **Protocol**: UART
 - **Scripting & Tools**: Python, MATLAB, Unix/Linux
 
 ---
