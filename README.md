@@ -27,8 +27,7 @@ My work spans from microarchitecture → RTL → simulation → timing analysis 
 | riscv-processor | A 32-bit 5-stage pipelined RISC-V CPU in Verilog |
 | uart-verilog | A Serial Communication portocol in Verilog with Transmitter & Receiver module |
 | cache-memory-design | Direct-mapped cache optimized with AI-assisted tag-matching |
-| accumulator-cadence | 16-bit high-speed accumulator layout + DRC/LVS pass in Virtuoso |
-| biosensor-tfet | TCAD-modeled TFET biosensor for high-sensitivity detection |
+| FPU | 32 bit FPU with IEEE standards in SystemVerilog |
 
 ---
 
