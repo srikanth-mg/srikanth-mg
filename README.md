@@ -1,18 +1,23 @@
 # Hi, I'm Srikanth Muthuvel Ganthimathi
 
-**Aspiring Chip Design Engineer** | RTL | ASIC | FPGA | Schematic/Layout | Virtuoso | TCAD
+**Aspiring Silicon Design Engineer** | RTL • ASIC • GPU • CPU • SoC • RISC-V • Microarchitecture
 
-I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (VLSI specialization) at SUNY, Binghamton University. My work focuses on full-stack chip design—from RTL to tapeout—including schematic design, layout, and PDK-based simulation.
+I’m a Master’s student in Electrical and Computer Engineering at Binghamton University, focusing on front-end ASIC design, RTL development, and CPU/GPU microarchitecture.
+I currently work as a Digital Design Engineer Intern at Western Semiconductor, contributing to RISC-V SoC architecture, cache subsystems, vector execution logic, and verification workflows.
+
+My work spans from microarchitecture → RTL → simulation → timing analysis → FPGA prototyping, giving me full-stack understanding of digital IC design flows.
 
 ---
 
-## Core Skills
-- **RTL Design**: Verilog HDL, SystemVerilog
-- **FPGA/ASIC Flow**: Xilinx Vivado, Questa, ModelSim
-- **Backend**: Cadence Virtuoso – schematic/layout, DRC/LVS/ERC, PDK integration
-- **Device Modeling**: Synopsys Sentaurus TCAD
-- **Protocol**: UART
-- **Scripting & Tools**: Python, MATLAB, Unix/Linux
+## Core Technical Skills
+	•	RTL & Microarchitecture: Verilog, SystemVerilog, Pipelined CPU design, Data & Control hazards, OoO Execution, Memory hierarchy  
+	•	ASIC Flow: Synthesis, STA, timing closure, CDC, constraint generation
+	•	EDA Tools: Cadence Virtuoso, OpenROAD, OpenSTA, Xilinx Vivado, ModelSim, Verilator
+	•	Verification: Testbench creation, waveform debug, functional simulation
+	•	Backend Exposure: Standard cell development, characterization, DRC/LVS concepts
+	•	Scripting: Python, Tcl, Perl
+	•	Platforms: Linux, FPGA (Cyclone III), embedded hardware (8086, ATmega328)
+
 
 ---
 
@@ -28,6 +33,5 @@ I'm a passionate hardware designer pursuing my M.S. in Electrical Engineering (V
 ---
 
 ## Contact
-- Binghamton, NY
 - smuthuvelgan@binghamton.edu
 - [LinkedIn](https://www.linkedin.com/in/srikanth9503)
