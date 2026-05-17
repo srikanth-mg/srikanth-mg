@@ -24,9 +24,9 @@ My work spans from microarchitecture → RTL → simulation → timing analysis 
 ## Projects
 | Project | Description |
 |--------|-------------|
+| riscv-ibex-tee | Hardware-Enforced TEE for ibex RISC-V Core |
 | riscv-processor | A 32-bit 5-stage pipelined RISC-V CPU in Verilog |
 | axi4-gpio-pwm | AMBA AXI4-Lite Protocol GPIO/PWM Integration for SoC Design |
-| cache-memory-design | Direct-mapped cache optimized with AI-assisted tag-matching |
 | FPU | 32 bit FPU with IEEE standards in SystemVerilog |
 
 ---
