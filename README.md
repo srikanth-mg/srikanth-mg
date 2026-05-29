@@ -1,5 +1,5 @@
 # Hi, I'm Srikanth Muthuvel Ganthimathi
-# ASIC/RTL design engineer - MS in Electrical & Computer Engineering from Binghamton University (May 2026). Front-end focus: CPU and GPU microarchitecture, memory subsystems, SoC integration & RTL Design.
+ASIC/RTL design engineer - MS in Electrical & Computer Engineering from Binghamton University (May 2026). Front-end focus: CPU and GPU microarchitecture, memory subsystems, SoC integration & RTL Design.
 
 Recent work:
 - RISC-V Trusted Execution Environment (capstone) -> microarchitecture and SystemVerilog RTL for privilege/CSR logic, memory protection, and secure entry/exit control paths
