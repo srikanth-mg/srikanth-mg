@@ -9,6 +9,7 @@ Recent work:
 Flow coverage: microarchitecture → SystemVerilog RTL → directed/self-checking testbenches → synthesis → STA → FPGA prototyping in Vivado.
 
 Actively seeking full-time roles in ASIC/RTL/CPU/GPU design. Open to relocation across the US.
+
 ---
 
 ## Core Technical Skills
